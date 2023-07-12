@@ -91,4 +91,33 @@ line-height: 30px;
 #td-span{
     color: #E55473;
 }
+/*Foth section*/
+
+#fo-section{
+    margin-left: 240px;
+    margin-right: 240px;
+}
+#fo-head{
+    margin-top: 128px;
+    margin-left: 630px;
+    margin-bottom: 132px;
+    margin-right: 630px;
+
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+}
+#fo-sectwo{
+    display: inline-flex;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom: 128px;
+}
+.fo-pic{
+    width: 342 px ;
+    height: 396px ;
+    margin-right: 24px;
+}
 
