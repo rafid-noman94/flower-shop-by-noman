@@ -121,3 +121,49 @@ font-weight: 800;
     margin-right: 24px;
 }
 
+/*fifth section*/
+
+#fi-sec{
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom: 128px;
+    height: 450px;
+    border-radius: 8px;
+background: url('../image/Rectangle\ 9.png');
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+#fi-head{
+    
+    padding-top: 122px;
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+display: block;
+margin: auto;
+}
+
+#fi-para{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+form{
+    display: flex;
+    justify-content: center;
+    
+}
+.inpt{
+    width: 700px;
+height: 64px;
+border: 0;
+
+}
+
+
