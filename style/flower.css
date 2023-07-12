@@ -1,0 +1,52 @@
+/* ALL SHARED*/
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+.btn{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    border: 8px;
+    }
+/*header section*/
+#h-section{
+    display: flex;
+    background-color: #E554731A;
+    justify-content: space-between;
+    margin-bottom: auto;
+    
+}
+#h-left{
+margin-left: 240px;
+}
+#h-heder{
+color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-weight: 800;
+margin-top: 197px;
+width: 708px;
+height: 288px;
+}
+#h-peragraph{
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+#h-pic{
+width: 635px;
+height: 800px;
+flex-shrink: 0; 
+margin-top: 50px;
+margin-right: 240px;
+margin-bottom: 0;
+border: 10px;
+}
