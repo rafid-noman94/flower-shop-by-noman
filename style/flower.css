@@ -287,4 +287,17 @@ width: 625px;
 
 }
 
+/*Extra*/
+.ex{
+    display: flex;
+    justify-content: center;
+}
+.ese{
+    text-align: center;
+
+}
+.po{
+    padding-bottom: 25px;
+}
+
 
