@@ -50,6 +50,82 @@ margin-right: 240px;
 margin-bottom: 0;
 border: 5px;
 }
+
+/*Second section*/
+#sc-head{
+    margin-top: 178px;
+    text-align: center;
+
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+
+}
+
+#sc-para{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+display: block;
+margin: auto;
+margin-bottom: 48px;
+}
+
+#sc-flexx{
+    display: flex;
+    justify-content: center;
+}
+
+.picfo{
+    border-radius: 300px 300px 0px 0px;
+    width: 464px;
+    height: 638px;
+}
+#pi{
+    background: rgba(167, 33, 98, 0.15);
+}
+#pj{
+    background: rgba(5, 151, 160, 0.15);
+}
+#pk{
+    background: rgba(71, 125, 17, 0.15);
+}
+
+#pi img{
+    width: 310px;
+    height: 428px;
+    margin: 210px 0 0 66px; 
+}
+#pj img{
+    width: 370px;
+    height: 370px;
+    margin: 210px 0 0 66px;
+}
+#pk img{
+    width: 314px;
+    height: 471px;
+    margin: 166px 0 0 81px;
+}
+.gap{
+    margin-right: 24px;
+}
+.tx{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+
+
+
+
 /* third section*/
 #th-section{
  display: flex;
